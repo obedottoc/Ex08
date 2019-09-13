@@ -1,3 +1,9 @@
+/****
+ * Program for multithread
+
+ * @author RAJAMANICKAM A
+ *  rajapandidevi1997@gmail.com
+ */
 package multithread;
 
 public class FirstThread extends Thread {
