@@ -1,6 +1,14 @@
 package multithread;
 
 
+/*
+ * developed by R.Nehareddy
+ * EEE-B
+ * 212217105049
+ * 
+ * 
+ */
+
 import java.util.Random;
 
 public class MainThread {

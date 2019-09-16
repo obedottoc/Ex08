@@ -1,3 +1,11 @@
+/*
+ * developed by R.Nehareddy
+ * EEE-B
+ * 212217105049
+ * 
+ * 
+ */
+
 package multithread;
 
 public class FirstThread extends Thread {
