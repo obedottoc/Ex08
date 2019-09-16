@@ -13,7 +13,7 @@ public class SecondThread extends Thread {
 			{
 				synchronized(MainThread.RandomValue)
 				{
-					if((MainThread.RandomValue%2)==0&&MainThread.RandomValue!=-1)
+					if((MainThread.RandomValue%2)!=0&&MainThread.RandomValue!=-1)
 					{
 						System.out.println("Value is odd");
 						System.out.println("Answer="+(MainThread.RandomValue*MainThread.RandomValue*MainThread.RandomValue));
