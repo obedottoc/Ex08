@@ -1,8 +1,9 @@
-package multithread;
+
 /***
  * developed by sandhiya
  * EEE,212217105052
  */
+package multithread;
 import java.util.Random;
 
 public class MainThread {
