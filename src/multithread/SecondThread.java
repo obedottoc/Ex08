@@ -1,7 +1,7 @@
 /*
  * Program to perform second thread
- *  By Faizul
- *  faizulsmart10@gmail.com
+ *  By Akhshy Ganesh
+ *  akhshyhganeshb@gmail.com
  */
 package multithread;
 
