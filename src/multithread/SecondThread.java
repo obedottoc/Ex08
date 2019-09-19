@@ -1,4 +1,7 @@
-
+/***
+ * @author vijayakumarkaranam
+ * 
+ */
 package multithread;
 
 public class SecondThread extends Thread {
