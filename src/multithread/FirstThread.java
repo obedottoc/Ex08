@@ -1,3 +1,9 @@
+/****
+ *Developed By Avinash Raja
+ *Reg n0:212217105009
+ *exp n0:8
+ *EEE-A
+ */
 package multithread;
 
 public class FirstThread extends Thread {
