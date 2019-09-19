@@ -1,5 +1,9 @@
 
-	package multithread;
+  	
+/***
+ * @author nikhil
+ */
+package multithread;
 
 	public class FirstThread extends Thread {
 			

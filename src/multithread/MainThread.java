@@ -1,5 +1,8 @@
 
-	package multithread;
+/***
+ * @author nikhil	
+ */
+package multithread;
 
 	import java.util.*;
 
