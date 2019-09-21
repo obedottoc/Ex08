@@ -1,5 +1,4 @@
 package multithread;
-
 import java.util.*;
 
 public class MainThread {

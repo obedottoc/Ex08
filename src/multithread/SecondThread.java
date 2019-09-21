@@ -1,5 +1,4 @@
 package multithread;
-
 public class SecondThread extends Thread {
 
 	public void run()
