@@ -8,7 +8,7 @@ public class FirstThread extends Thread {
 		
 		try
 		{
-			System.out.println("First thread started...");
+			 System.out.println("First thread started...");
 			while(true)
 			{
 				synchronized(MainThread.RandomValue)
