@@ -1,4 +1,7 @@
-package multithread;
+/*sksuri01@gmail.com
+ * developed by 
+ * suriya kumar
+ * 212217105057*/package multithread;
 import java.util.*;
 import java.util.Random;
 
