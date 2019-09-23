@@ -6,7 +6,7 @@ public class MainThread {
 	
 	public static Integer RandomValue;
 	
-	public static void main(String[] args) {
+	 public static void main(String[] args) {
 		FirstThread t1;
 		SecondThread t2;
 		Random r;
