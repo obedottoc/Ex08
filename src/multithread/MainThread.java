@@ -1,3 +1,8 @@
+//*created by roopesh
+//*1roopesh3@gmai.com
+//*this program is written to implement a multithreaded application that has three threads.
+
+
 package multithread;
 
 import java.util.*;
