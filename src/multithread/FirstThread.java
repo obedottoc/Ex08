@@ -4,7 +4,6 @@ public class FirstThread extends Thread {
 
 	public void run()
 	{
-		
 		try
 		{
 			System.out.println("First thread started...");

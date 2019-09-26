@@ -2,7 +2,6 @@ package multithread;
 import java.util.*;
 
 public class MainThread {
-	
    public static Integer RandomValue;
 	public static void main(String[] args) {
 		FirstThread t1;
