@@ -1,4 +1,7 @@
-
+/***
+ * Devloped by Mari Bhagavathi.T
+ * mari36mars@gmail.com
+ */
 package multithread;
 
 import java.util.*;

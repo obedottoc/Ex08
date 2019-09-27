@@ -1,3 +1,7 @@
+/***
+ * Devloped by Mari Bhagavathi.T
+ * mari36mars@gmail.com
+ */
 package multithread;
 
 public class FirstThread extends Thread {
